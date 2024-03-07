@@ -14,4 +14,4 @@ Programming, Education, and Computer-Human Interaction Lab led by [Prof. April W
 
 My research focuses on the in-depth analysis of the reasoning processes and capabilities of large language models (LLMs), with a particular emphasis on leveraging these models to construct advanced educational tutoring systems. By exploring the intricacies of LLMs, including their underlying mechanisms and potential applications, I aim to bridge the gap between artificial intelligence and education, creating platforms that enhance learning experiences through personalized, interactive, and intelligent tutoring based on NLP technology.
 
-[Email](wangjunling1999@gmail.com) / [Github](https://github.com/JunlingWang0512)  / [Google Scholar](https://scholar.google.com/citations?user=BxpZ9oMAAAAJ&hl=en)
+[Email](mailto:wangjunling1999@gmail.com) / [Github](https://github.com/JunlingWang0512)  / [Google Scholar](https://scholar.google.com/citations?user=BxpZ9oMAAAAJ&hl=en)
