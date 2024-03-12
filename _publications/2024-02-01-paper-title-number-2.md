@@ -1,5 +1,5 @@
 ---
-title: "Zhao, Wenjing, et al. "How has academia responded to the urgent needs created by COVID-19? A multi-level global, regional and national analysis." Journal of Information Science 50.1 (2024): 162-188."
+title: "How has academia responded to the urgent needs created by COVID-19? A multi-level global, regional and national analysis"
 collection: publications
 permalink: /publication/2024-02-01-paper-title-number-2
 excerpt: 'This paper analyzes global academic responses to the COVID-19 pandemic, examining publication patterns, research focus, and scientific collaborations, and highlights the dynamic, country-specific responses and the importance of a diverse knowledge base in addressing pandemic-related challenges.'
