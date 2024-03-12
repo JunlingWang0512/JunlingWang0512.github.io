@@ -3,7 +3,7 @@ title: "Zhao, Wenjing, et al. "How has academia responded to the urgent needs cr
 collection: publications
 permalink: /publication/2024-02-01-paper-title-number-2
 excerpt: 'This paper analyzes global academic responses to the COVID-19 pandemic, examining publication patterns, research focus, and scientific collaborations, and highlights the dynamic, country-specific responses and the importance of a diverse knowledge base in addressing pandemic-related challenges.'
-date: 2024-02-01
+date: '2024-02-01'
 venue: 'Journal of Information Science'
 paperurl: 'https://journals.sagepub.com/doi/full/10.1177/01655515221084646'
 citation: 'Wenjing Zhao, Lin Zhang, Junling Wang, Lili Wang. (2010). &quot;How has academia responded to the urgent needs created by COVID-19? A multi-level global, regional and national analysis.&quot; <i>JJournal of Information Science.</i>. 50.1 (2024): 162-188.'
