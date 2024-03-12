@@ -1,5 +1,5 @@
 ---
-title: "On the legitimacy of voting methods"
+title: 'On the legitimacy of voting methods'
 collection: publications
 permalink: /publication/2023-02-01-paper-title-number-1
 excerpt: 'This study examines how different voting rules affect citizens' perception of legitimacy in a democratic government, underscoring the importance of how preferences are expressed and considered in political decision-making.'
