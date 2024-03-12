@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This study examines how different voting rules affect citizens'' perception of legitimacy in a democratic government, underscoring the importance of how preferences are expressed and considered in political decision-making.'
 date: 2020-08-01
 venue: 'Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2020'
-paperurl: '[https://dl.acm.org/doi/proceedings/10.1145/3383583]'
+paperurl: 'https://dl.acm.org/doi/proceedings/10.1145/3383583'
 citation: 'Junling Wang, Yuehan Zhang, Jiani Huang, Jiayu Shen, Yiyang Wang, Jiamin Wang, Jiming Hu, Wei Lu. (2015). &quot;Analyzing international relations from British parliamentary debates.&quot; <i>Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2020</i>. 2020.'
 ---
 
