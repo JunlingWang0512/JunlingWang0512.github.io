@@ -2,10 +2,10 @@
 title: "Book2Dial: Generating Teacher Student Interactions from Textbooks for Cost-Effective Development of Educational Chatbots"
 collection: publications
 permalink: /publication/2024-03-05-paper-title-number-4
-excerpt: 'This paper is generating teacher student interactions from textbooks for cost-effective development of educational chatbots.'
-date: 2024-03-05
-venue: 'arxiv'
-paperurl: 'https://arxiv.org/abs/2403.03307'
+excerpt: 'We propose a framework for generating synthetic teacher-student interactions grounded in a set of textbooks and build a dataset based on it.'
+date: 2024-08-16
+venue: 'ACL 2024 Findings'
+paperurl: 'https://aclanthology.org/2024.findings-acl.578/'
 citation: 'Junling Wang, Jakub Macina, Nico Daheim, Sankalan Pal Chowdhury, Mrinmaya Sachan. (2024). &quot;Book2Dial: Generating Teacher Student Interactions from Textbooks for Cost-Effective Development of Educational Chatbots.&quot; <i>arXiv preprint arXiv:2403.03307 (2024).</i>'
 ---
 
