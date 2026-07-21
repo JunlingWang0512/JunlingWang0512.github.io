@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computer Science, ETH Zurich, 2028 (expected)
 * M.S. in Data Science, ETH Zurich, 2024
-* B.S. in Information Management and Information System, ETH Zurich, 2021
+* B.S. in Information Management and Information System, Wuhan University, 2021
 
 Work experience
 ======
@@ -28,7 +28,7 @@ Work experience
   * Supervisor: Prof. Dirk Helbing
 
 * Summer 2020: Data Analysis Intern in Media Partnership
-  * Beijing ByteDance Technology Co., Ltd. (TikTok)
+  * Beijing ByteDance Technology Co., Ltd.
   * Duties included: Collected data through Hive and drafted data analysis reports for the Content and Cooperation Division; Performed SKOL-specific data analysis with Python; Compiled competing product reports and coordinated live broadcasts.
   * Supervisor: Heng Wang
 
