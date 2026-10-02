@@ -1,0 +1,14 @@
+{% if include.publication.award %}
+  <p class="publication-award">
+    <strong><i class="fa fa-trophy" aria-hidden="true"></i>
+    {% if include.publication.award_url %}
+      <a href="{{ include.publication.award_url }}">{{ include.publication.award | escape }}</a>
+    {% else %}
+      {{ include.publication.award | escape }}
+    {% endif %}
+    </strong>
+  </p>
+{% endif %}
+{% if include.publication.equal_contribution %}
+  <p class="page__meta">* Equal contribution.</p>
+{% endif %}

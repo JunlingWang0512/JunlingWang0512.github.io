@@ -1,5 +1,6 @@
 ---
 title: "Analyzing international relations from British parliamentary debates"
+authors: "Junling Wang, Yuehan Zhang, Jiani Huang, Jiayu Shen, Yiyang Wang, Jiamin Wang, Jiming Hu, Wei Lu"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This study examines how different voting rules affect citizens'' perception of legitimacy in a democratic government, underscoring the importance of how preferences are expressed and considered in political decision-making.'

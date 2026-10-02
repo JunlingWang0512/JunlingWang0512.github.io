@@ -1,0 +1,17 @@
+<article class="publication-entry">
+  <h3><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h3>
+  <p class="publication-authors">{{ post.authors | escape | replace: 'Junling Wang', '<strong>Junling Wang</strong>' }}</p>
+  <p class="publication-venue">{{ post.venue }}</p>
+  {% if post.award %}
+    <a class="award-badge" href="{{ post.award_url }}"><i class="fas fa-trophy" aria-hidden="true"></i> {{ post.award }}</a>
+  {% endif %}
+  <div class="publication-actions">
+    <a href="{{ post.paperurl }}">Paper <span aria-hidden="true">↗</span></a>
+    {% if post.excerpt %}
+    <details>
+      <summary>Summary</summary>
+      <div class="publication-summary">{{ post.excerpt | markdownify }}</div>
+    </details>
+    {% endif %}
+  </div>
+</article>

@@ -1,0 +1,37 @@
+.section-intro { color: #596575; font-size: .88em; line-height: 1.8; }
+.section-intro a { white-space: nowrap; }
+.contribution-key { color: #687382; font-size: .7em; margin: 0 0 2rem; }
+.publications-view {
+  .publication-year { color: #788493; font-size: .85em; letter-spacing: .12em; margin: 2.5rem 0 .3rem; padding-bottom: .7rem; border-bottom: 1px solid #dce3e9; }
+  .publication-entry { padding: 1.4rem 0; border-bottom: 1px solid #edf0f3; }
+  h3 { font-size: 1em; line-height: 1.5; margin: 0 0 .55rem; font-weight: 600; }
+  h3 a { color: #203449; text-decoration: none; }
+  h3 a:hover { color: #296c83; text-decoration: underline; }
+  .publication-authors { color: #626c79; font-size: .75em; line-height: 1.8; margin: 0 0 .35rem; }
+  .publication-authors strong { color: #26384a; font-weight: 600; }
+  .publication-venue { color: #43576c; font-size: .75em; line-height: 1.65; margin: 0 0 .65rem; }
+}
+.award-badge { display: inline-block; padding: .3rem .65rem; background: #fff5dc; color: #795408; border: 1px solid #f0dfb2; border-radius: 5px; font-size: .65em; font-weight: 600; text-decoration: none; }
+.publication-actions { display: flex; align-items: baseline; gap: 1.2rem; margin-top: .7rem; font-size: .72em; }
+.publication-actions > a, .publication-actions summary { color: #296c83; cursor: pointer; }
+.publication-actions details { flex: 1; min-width: 0; }
+.publication-actions summary { width: fit-content; }
+.publication-summary { color: #626c79; padding-top: .65rem; line-height: 1.8; }
+.cv-view {
+  h2 { font-size: 1.05em; color: #203449; margin: 2.5rem 0 1.3rem; padding-bottom: .7rem; border-bottom: 1px solid #dce3e9; }
+  .cv-entry { margin: 0 0 1.7rem; padding-left: 1.2rem; border-left: 2px solid #dce5ec; }
+  .cv-entry:first-of-type { border-left-color: #39798b; }
+  .cv-entry-header { display: flex; justify-content: space-between; align-items: baseline; gap: .5rem 1rem; flex-wrap: wrap; }
+  h3 { font-size: .9em; margin: 0; color: #26384a; line-height: 1.5; }
+  .cv-date { font-size: .7em; color: #717d8b; white-space: nowrap; }
+  .cv-organization { color: #397083; font-size: .8em; margin: .3rem 0 .7rem; }
+  .cv-entry ul { font-size: .76em; line-height: 1.8; padding-left: 1.1rem; margin: .4rem 0; }
+  .cv-entry li { margin-bottom: .35rem; }
+  .cv-skills { font-size: .78em; line-height: 1.9; padding-left: 1.2rem; }
+}
+@media (max-width: 600px) {
+  .publications-view h3 { font-size: 1.05em; }
+  .publications-view .publication-authors, .publications-view .publication-venue { font-size: .85em; }
+  .cv-view .cv-entry { padding-left: .8rem; }
+  .cv-view .cv-entry ul { font-size: .85em; }
+}

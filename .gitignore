@@ -3,3 +3,10 @@ _site/
 
 # Ignore the Gemfile that is generated
 Gemfile.lock
+
+# Local Ruby dependencies and preview caches
+.bundle/
+vendor/bundle/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
